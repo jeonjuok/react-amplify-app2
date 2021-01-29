@@ -44,8 +44,7 @@ function App() {
           Learn React
         </a>
     
-    
-        //<Container className="p-3">
+   
           <Jumbotron>
             <h1 className="header">Welcome To React-Bootstrap</h1>
             <ExampleToast>
@@ -55,7 +54,7 @@ function App() {
               </span>
             </ExampleToast>
           </Jumbotron>
-        //</Container>        
+   
     
 
       </header>
