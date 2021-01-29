@@ -43,23 +43,22 @@ function App() {
         >
           Learn React
         </a>
+    
+    
+        <Container className="p-3">
+          <Jumbotron>
+            <h1 className="header">Welcome To React-Bootstrap</h1>
+            <ExampleToast>
+              We now have Toasts
+              <span role="img" aria-label="tada">
+                🎉
+              </span>
+            </ExampleToast>
+          </Jumbotron>
+        </Container>        
+    
+
       </header>
-    
-    
-      <Container className="p-3">
-        <Jumbotron>
-          <h1 className="header">Welcome To React-Bootstrap</h1>
-          <ExampleToast>
-            We now have Toasts
-            <span role="img" aria-label="tada">
-              🎉
-            </span>
-          </ExampleToast>
-        </Jumbotron>
-      </Container>        
-    
-    
-    
     
     </div>
     
