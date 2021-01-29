@@ -45,7 +45,7 @@ function App() {
         </a>
     
     
-        <Container className="p-3">
+        //<Container className="p-3">
           <Jumbotron>
             <h1 className="header">Welcome To React-Bootstrap</h1>
             <ExampleToast>
@@ -55,7 +55,7 @@ function App() {
               </span>
             </ExampleToast>
           </Jumbotron>
-        </Container>        
+        //</Container>        
     
 
       </header>
