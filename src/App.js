@@ -1,15 +1,5 @@
-import React, { useState } from 'react';
-
-import Jumbotron from 'react-bootstrap/Jumbotron';
-import Toast from 'react-bootstrap/Toast';
-import Container from 'react-bootstrap/Container';
-import Button from 'react-bootstrap/Button';
-
 import logo from './logo.svg';
 import './App.css';
-
-
-
 
 function App() {
   return (
@@ -28,17 +18,8 @@ function App() {
         >
           Learn React
         </a>
-    
-
-    
-
       </header>
-    
     </div>
-    
-    
-
-    
   );
 }
 
